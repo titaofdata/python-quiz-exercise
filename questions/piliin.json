@@ -1,0 +1,42 @@
+
+[
+
+{
+    "question": "Ilan ang nasa buhay ko?",
+    "answers": [
+        "dalawa",
+        "isa",
+        "wala",
+        "it depends"
+    ]
+},
+
+{
+    "question": "Mahal kita nang _______???",
+    "answers": [
+        "labis", "kulang", "sakto lang", "it depends"
+    ]
+},
+
+{
+    "question": "Ano ang nararamdaman ko",
+    "answers": [
+        "litong-litong-lito", "lito", "litong-lito", "meh"
+    ]
+},
+
+{
+    "question": "Alin ang gagamitin?",
+    "answers": [
+        "isip", "puso", "bituka", "urethra"
+    ]
+},
+
+{
+    "question": "Sino ang pipiliin ko?",
+    "answers": [
+        "mahal ako", "mahal ko", "single for life", "it depends"
+    ]
+}
+
+]
