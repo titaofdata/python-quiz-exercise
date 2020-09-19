@@ -2,4 +2,4 @@
 
 Go to command prompt and run the following commands
 
-![Screenshot](python_quiz.png)
+![Screenshot](python_quiz.PNG)
